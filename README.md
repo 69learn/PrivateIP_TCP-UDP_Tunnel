@@ -26,7 +26,7 @@
  <div dir="rtl">&bull; امکان ریست و حذف کردن سرویس</div>
  <div dir="rtl">&bull; وایرگارد، openvpn یا پنل v2ray را در سرور خارج نصب نمایید</div>
   <div dir="rtl">&bull; پشتیبانی از amd64 و arm</div>
------------------------
+
   <div align="right">
   <details>
     <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/update.png" width="40" alt="Image"> </strong>آپدیت</summary>
