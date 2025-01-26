@@ -27,27 +27,25 @@
  <div dir="rtl">&bull; وایرگارد، openvpn یا پنل v2ray را در سرور خارج نصب نمایید</div>
   <div dir="rtl">&bull; پشتیبانی از amd64 و arm</div>
 -----------------------
-------------------------------------------------------
   <div align="right">
   <details>
     <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/update.png" width="40" alt="Image"> </strong>آپدیت</summary>
   
   
------------------------------------- 
+-----------------------
 - ریست تایمر 6 ساعته برای تانل ها اضافه شد.
 - ببینید مشکل قطع شدن تانل را براتون برطرف کرده یا خیر.
-------------------
+-----------------------
 
 **میتوانید همچنین IP6IP6 و GRE6 و سایر موارد را در لینک زیر نگاه کنید**
 - لینک : https://github.com/Azumi67/6TO4-GRE-IPIP-SIT
 - منظور این است که نخست به طور مثال IP6IP6 را راه اندازی کنید و سپس از ایپی های تولید شده (generated) برای ریورس تانل استفاده نمایید.
 - آموزش ها را با دقت بخوانید و با ازمون و خطا تانل را انجام دهید.
-- -------------------------
 ------------------------
  <div align="right">
   <details>
     <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/youtube.png" width="40" alt="Image"> ویدیوهای آموزشی</strong></summary>
-------------------------------------  
+------------------------
 - ویدیوی آموزشی توسط 69
 
 <div align="right">
@@ -63,7 +61,6 @@
   </details>
 </div>
 
-------------------------------------------
 ------------------------
  <div align="right">
   <details>
@@ -87,7 +84,7 @@ apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/opiran-c
 **اسکریپت من**
 
 ```
-apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/Azumi67/PrivateIP_TCP-UDP_Tunnel/main/Private.sh --ipv4)
+apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/69learn/PrivateIP_TCP-UDP_Tunnel/refs/heads/main/Private.sh --ipv4)
 ```
 
 
